@@ -1,6 +1,6 @@
 # Jessé Ávila
 
-[![Twitter Badge](https://img.shields.io/badge/-@dieegosf-00875f?style=flat-square&labelColor=00875f&logo=twitter&logoColor=white&link=https://twitter.com/jesse0avila)](https://twitter.com/jesse0avila) 
+[![Twitter Badge](https://img.shields.io/badge/-@jesse0avila-00875f?style=flat-square&labelColor=00875f&logo=twitter&logoColor=white&link=https://twitter.com/jesse0avila)](https://twitter.com/jesse0avila) 
 
 Enthusiastic about javascript and web and mobile development.
 
